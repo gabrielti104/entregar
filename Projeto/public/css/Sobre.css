@@ -1,0 +1,16 @@
+.image-container {
+    height: 40vw;
+    /* Altura da div */
+    width: 1302px;
+    overflow: hidden;
+    /* Para manter a imagem dentro dos limites da div */
+  
+ 
+}
+
+.image-container img {
+    width: 100%;
+    /* A imagem ocupa 100% da largura da div */
+    height: auto;
+    /* A altura se ajusta automaticamente para manter a proporção original da imagem */
+}
