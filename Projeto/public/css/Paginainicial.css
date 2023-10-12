@@ -27,7 +27,6 @@ a {
 /* Estilizando o conteúdo para ocupar o espaço entre o topo e o footer */
 .content {
     min-height: 100%;
-    margin-bottom: -60px; /* Ajuste a margem inferior para coincidir com a altura do footer */
     padding-bottom: 60px; /* Ajuste o padding inferior para coincidir com a altura do footer */
 }
 
